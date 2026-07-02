@@ -13,31 +13,6 @@ The primary goals of this repository are:
 
 ---
 
-# 📂 Repository Structure
-
-Problems are organized based on topics whenever possible.
-
-```
-LeetCode/
-│
-├── Arrays/
-├── Strings/
-├── Linked List/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Binary Search/
-├── Graph/
-├── Dynamic Programming/
-├── Greedy/
-├── Backtracking/
-├── Sliding Window/
-├── Two Pointers/
-├── Bit Manipulation/
-├── Math/
-└── Miscellaneous/
-```
-
 Each solution includes:
 - Clean and readable code
 - Optimal approach whenever possible
