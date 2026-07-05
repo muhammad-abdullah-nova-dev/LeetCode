@@ -143,6 +143,7 @@ Happy Coding! 💻
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
 | [3620-network-recovery-pathways](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
@@ -173,4 +174,20 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
