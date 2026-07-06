@@ -145,6 +145,7 @@ Happy Coding! 💻
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1288-remove-covered-intervals](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -204,4 +205,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0189-rotate-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
