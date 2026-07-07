@@ -211,6 +211,7 @@ Happy Coding! 💻
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0189-rotate-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Prefix Sum
