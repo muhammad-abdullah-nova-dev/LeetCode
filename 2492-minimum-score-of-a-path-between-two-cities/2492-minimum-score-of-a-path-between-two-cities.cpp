@@ -1,34 +1,35 @@
 class Solution {
 public:
+    vector<int> parent;
+
+    int find(int x) {
+        if (parent[x] != x)
+            parent[x] = find(parent[x]);
+        return parent[x];
+    }
+
+    void unite(int a, int b) {
+        a = find(a);
+        b = find(b);
+        if (a != b)
+            parent[a] = b;
+    }
+
     int minScore(int n, vector<vector<int>>& roads) {
+        parent.resize(n + 1);
 
-        vector<vector<pair<int,int>>> adj(n + 1);
+        for (int i = 1; i <= n; i++)
+            parent[i] = i;
 
-        for (auto &road : roads) {
-            adj[road[0]].push_back({road[1], road[2]});
-            adj[road[1]].push_back({road[0], road[2]});
-        }
+        for (auto &r : roads)
+            unite(r[0], r[1]);
 
-        vector<bool> vis(n + 1, false);
-        queue<int> q;
-
-        q.push(1);
-        vis[1] = true;
-
+        int root = find(1);
         int ans = INT_MAX;
 
-        while (!q.empty()) {
-            int node = q.front();
-            q.pop();
-
-            for (auto &[next, wt] : adj[node]) {
-                ans = min(ans, wt);
-
-                if (!vis[next]) {
-                    vis[next] = true;
-                    q.push(next);
-                }
-            }
+        for (auto &r : roads) {
+            if (find(r[0]) == root)
+                ans = min(ans, r[2]);
         }
 
         return ans;
