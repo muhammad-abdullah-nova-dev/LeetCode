@@ -153,6 +153,7 @@ Happy Coding! 💻
 | [0845-longest-mountain-in-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1288-remove-covered-intervals](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
@@ -164,6 +165,7 @@ Happy Coding! 💻
 ## Binary Search
 |  |
 | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -177,6 +179,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -196,6 +199,7 @@ Happy Coding! 💻
 | [0001-two-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,6 +241,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Enumeration
 |  |
 | ------- |
