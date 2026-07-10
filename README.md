@@ -234,6 +234,7 @@ Happy Coding! 💻
 | ------- |
 | [0002-add-two-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0189-rotate-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
