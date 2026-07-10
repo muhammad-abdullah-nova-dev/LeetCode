@@ -232,6 +232,7 @@ Happy Coding! 💻
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0189-rotate-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -274,4 +275,12 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
