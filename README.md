@@ -145,6 +145,7 @@ Happy Coding! 💻
 | [0011-container-with-most-water](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -231,6 +232,7 @@ Happy Coding! 💻
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0048-rotate-image) |
 | [1301-number-of-paths-with-max-score](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
 |  |
@@ -238,6 +240,7 @@ Happy Coding! 💻
 | [0002-add-two-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0189-rotate-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
