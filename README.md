@@ -152,6 +152,7 @@ Happy Coding! 💻
 | [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0274-h-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0845-longest-mountain-in-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1288-remove-covered-intervals](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -219,6 +220,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
@@ -284,4 +286,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0002-add-two-numbers) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
