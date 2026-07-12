@@ -143,6 +143,7 @@ Happy Coding! 💻
 | ------- |
 | [0001-two-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0048-rotate-image) |
@@ -167,6 +168,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0125-valid-palindrome) |
@@ -227,6 +229,7 @@ Happy Coding! 💻
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
