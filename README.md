@@ -217,6 +217,7 @@ Happy Coding! 💻
 | ------- |
 | [0001-two-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -251,6 +252,7 @@ Happy Coding! 💻
 | [0002-add-two-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0189-rotate-array) |
@@ -295,6 +297,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0125-valid-palindrome) |
