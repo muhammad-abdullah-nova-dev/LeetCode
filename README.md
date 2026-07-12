@@ -216,6 +216,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -293,6 +294,7 @@ Happy Coding! 💻
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0125-valid-palindrome) |
@@ -330,4 +332,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
