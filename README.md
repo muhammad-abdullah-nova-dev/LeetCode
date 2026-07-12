@@ -158,6 +158,7 @@ Happy Coding! 💻
 | [0845-longest-mountain-in-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1288-remove-covered-intervals](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -214,6 +215,7 @@ Happy Coding! 💻
 | [0001-two-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
@@ -225,6 +227,7 @@ Happy Coding! 💻
 | [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
