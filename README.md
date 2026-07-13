@@ -286,6 +286,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [1291-sequential-digits](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1291-sequential-digits) |
 ## Greedy
 |  |
 | ------- |
