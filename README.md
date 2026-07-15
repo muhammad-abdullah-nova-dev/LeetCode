@@ -262,6 +262,7 @@ Happy Coding! 💻
 | [0013-roman-to-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
