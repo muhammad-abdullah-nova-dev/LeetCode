@@ -160,6 +160,7 @@ Happy Coding! 💻
 | [0274-h-index](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0845-longest-mountain-in-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1288-remove-covered-intervals](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
