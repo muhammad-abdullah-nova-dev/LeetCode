@@ -166,6 +166,7 @@ Happy Coding! 💻
 | [1288-remove-covered-intervals](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -187,6 +188,7 @@ Happy Coding! 💻
 ## Binary Search
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -234,6 +236,7 @@ Happy Coding! 💻
 | [0380-insert-delete-getrandom-o1](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
@@ -253,6 +256,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -272,6 +276,7 @@ Happy Coding! 💻
 | [0380-insert-delete-getrandom-o1](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3312-sorted-gcd-pair-queries](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -281,6 +286,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [3312-sorted-gcd-pair-queries](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Depth-First Search
 |  |
@@ -371,6 +377,7 @@ Happy Coding! 💻
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -378,4 +385,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0042-trapping-rain-water) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
