@@ -274,6 +274,7 @@ Happy Coding! 💻
 | [0048-rotate-image](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0263-ugly-number) |
+| [0371-sum-of-two-integers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -335,6 +336,7 @@ Happy Coding! 💻
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
