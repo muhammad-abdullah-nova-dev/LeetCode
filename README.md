@@ -150,6 +150,7 @@ Happy Coding! 💻
 | [0045-jump-game-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -343,6 +344,7 @@ Happy Coding! 💻
 | [0020-valid-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0412-fizz-buzz) |
@@ -373,6 +375,7 @@ Happy Coding! 💻
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
