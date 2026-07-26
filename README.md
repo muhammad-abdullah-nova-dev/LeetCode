@@ -163,6 +163,7 @@ Happy Coding! 💻
 | [0380-insert-delete-getrandom-o1](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0845-longest-mountain-in-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1260-shift-2d-grid](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -256,6 +257,7 @@ Happy Coding! 💻
 | [0015-3sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0274-h-index) |
+| [0628-maximum-product-of-three-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -286,6 +288,7 @@ Happy Coding! 💻
 | [0371-sum-of-two-integers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
