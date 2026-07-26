@@ -190,6 +190,7 @@ Happy Coding! 💻
 | [0125-valid-palindrome](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0392-is-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -209,6 +210,7 @@ Happy Coding! 💻
 | [0055-jump-game](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0392-is-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -352,6 +354,7 @@ Happy Coding! 💻
 | [0068-text-justification](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
