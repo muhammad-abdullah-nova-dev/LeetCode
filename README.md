@@ -156,6 +156,7 @@ Happy Coding! 💻
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -190,6 +191,7 @@ Happy Coding! 💻
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0392-is-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0845-longest-mountain-in-array) |
@@ -198,6 +200,7 @@ Happy Coding! 💻
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3312-sorted-gcd-pair-queries](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
