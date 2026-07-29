@@ -159,6 +159,7 @@ Happy Coding! 💻
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -201,6 +202,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -314,6 +316,7 @@ Happy Coding! 💻
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [3312-sorted-gcd-pair-queries](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -418,6 +421,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Trie
 |  |
 | ------- |
