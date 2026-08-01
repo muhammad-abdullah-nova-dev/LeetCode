@@ -165,6 +165,7 @@ Happy Coding! 💻
 | [0380-insert-delete-getrandom-o1](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0845-longest-mountain-in-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1260-shift-2d-grid](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -217,6 +218,7 @@ Happy Coding! 💻
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0486-predict-the-winner) |
 | [0845-longest-mountain-in-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -304,6 +306,7 @@ Happy Coding! 💻
 | [0371-sum-of-two-integers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -399,6 +402,7 @@ Happy Coding! 💻
 | ------- |
 | [0002-add-two-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 |  |
 | ------- |
@@ -460,4 +464,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
