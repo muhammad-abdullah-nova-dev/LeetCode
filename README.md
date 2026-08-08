@@ -200,6 +200,7 @@ Happy Coding! 💻
 | [0189-rotate-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0392-is-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -226,6 +227,7 @@ Happy Coding! 💻
 | [0877-stone-game](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -376,6 +378,7 @@ Happy Coding! 💻
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
@@ -397,6 +400,7 @@ Happy Coding! 💻
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
