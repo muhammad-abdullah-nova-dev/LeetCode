@@ -150,6 +150,7 @@ Happy Coding! 💻
 | [0042-trapping-rain-water](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -334,6 +335,7 @@ Happy Coding! 💻
 | ------- |
 | [0036-valid-sudoku](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
@@ -493,6 +495,7 @@ Happy Coding! 💻
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1260-shift-2d-grid) |
