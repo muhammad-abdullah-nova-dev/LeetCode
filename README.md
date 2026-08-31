@@ -486,6 +486,7 @@ Happy Coding! 💻
 | ------- |
 | [0002-add-two-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
