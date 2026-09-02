@@ -1,0 +1,1 @@
+const uniformArray = A => 1;
