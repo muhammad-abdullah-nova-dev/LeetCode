@@ -250,6 +250,7 @@ Happy Coding! 💻
 | [0486-predict-the-winner](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0486-predict-the-winner) |
 | [0845-longest-mountain-in-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1406-stone-game-iii) |
@@ -470,6 +471,7 @@ Happy Coding! 💻
 | [0151-reverse-words-in-a-string](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0412-fizz-buzz) |
+| [0940-distinct-subsequences-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
