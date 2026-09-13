@@ -169,6 +169,7 @@ Happy Coding! 💻
 | [0485-max-consecutive-ones](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1140-stone-game-ii) |
@@ -353,6 +354,7 @@ Happy Coding! 💻
 | [0036-valid-sudoku](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
