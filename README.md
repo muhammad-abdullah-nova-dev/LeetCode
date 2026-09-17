@@ -180,6 +180,7 @@ Happy Coding! 💻
 | [1386-cinema-seat-allocation](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -235,6 +236,7 @@ Happy Coding! 💻
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -259,6 +261,7 @@ Happy Coding! 💻
 | [1140-stone-game-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -306,6 +309,7 @@ Happy Coding! 💻
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -566,6 +570,7 @@ Happy Coding! 💻
 | [0030-substring-with-concatenation-of-all-words](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
