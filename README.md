@@ -254,6 +254,7 @@ Happy Coding! 💻
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0055-jump-game) |
@@ -507,6 +508,7 @@ Happy Coding! 💻
 | [0013-roman-to-integer](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0058-length-of-last-word) |
@@ -677,6 +679,7 @@ Happy Coding! 💻
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
@@ -709,6 +712,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
