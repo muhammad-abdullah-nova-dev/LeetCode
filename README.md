@@ -264,6 +264,7 @@ Happy Coding! 💻
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -487,6 +488,7 @@ Happy Coding! 💻
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0135-candy) |
+| [0678-valid-parenthesis-string](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -521,6 +523,7 @@ Happy Coding! 💻
 | [0151-reverse-words-in-a-string](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -590,6 +593,7 @@ Happy Coding! 💻
 | [0020-valid-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -717,6 +721,7 @@ Happy Coding! 💻
 | [0020-valid-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
