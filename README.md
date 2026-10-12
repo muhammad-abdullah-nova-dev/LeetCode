@@ -192,6 +192,7 @@ Happy Coding! 💻
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -330,6 +331,7 @@ Happy Coding! 💻
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -506,6 +508,7 @@ Happy Coding! 💻
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -569,6 +572,7 @@ Happy Coding! 💻
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
