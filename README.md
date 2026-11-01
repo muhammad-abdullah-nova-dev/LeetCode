@@ -166,6 +166,7 @@ Happy Coding! 💻
 | [0274-h-index](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -423,6 +424,7 @@ Happy Coding! 💻
 | [0371-sum-of-two-integers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/muhammad-abdullah-nova-dev/LeetCode/tree/master/0836-rectangle-overlap) |
